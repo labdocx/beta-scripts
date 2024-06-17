@@ -8,7 +8,7 @@ Welcome to the `internet-scripts` repository! This repository is a curated colle
 
 To dive into the world of `internet-scripts`, follow these steps:
 
-- **Clone the repository**: Grab a local copy of the repository to explore and use the scripts.
+- **Clone the repository:** Grab a local copy of the repository to explore and use the scripts.
   
   ```bash
   git clone https://github.com/labdocx/internet-scripts.git
@@ -17,7 +17,7 @@ To dive into the world of `internet-scripts`, follow these steps:
 
 To ensure smooth operation of these scripts, follow these guidelines:
 
- **Set PowerShell Execution Policy:**: This step is crucial to allow script execution. Adjust the execution policy as needed, but `RemoteSigned` is a good starting point:
+ **Set PowerShell Execution Policy:** This step is crucial to allow script execution. Adjust the execution policy as needed, but `RemoteSigned` is a good starting point:
 
 ## 
 ```powershell
@@ -25,7 +25,7 @@ Set-ExecutionPolicy RemoteSigned
 ```
 ## 
 
- **Check Azure CLI Installation:**: Make sure Azure CLI is installed on your system to utilize Azure-related scripts.
+ **Check Azure CLI Installation:** Make sure Azure CLI is installed on your system to utilize Azure-related scripts.
 
 ## 
 ```azurecli
