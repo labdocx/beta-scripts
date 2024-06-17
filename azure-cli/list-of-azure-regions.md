@@ -2,9 +2,13 @@
 
 To list all Azure regions using Azure CLI, you can use the following command:
 
+ 
+az account list-locations --output table
+## 
 ```bash
 az account list-locations --output table
-
+```
+## 
 
 # List of Azure Regions
 
