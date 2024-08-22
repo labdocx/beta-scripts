@@ -35,4 +35,4 @@ New-ADOrganizationalUnit -Name 'User Accounts' -Path 'OU=oollabsnet,DC=internal,
         New-ADOrganizationalUnit -Name 'Sys Help Desk Account' -Path 'OU=Unmanaged Users,OU=User Accounts,OU=oollabsnet,DC=internal,DC=oollabs,DC=com'
 ```
 
-![AD OU Design](https://github.com/labdocx/beta-scripts/blob/main/images/AD%20OU%20Design.png))
+![AD OU Design](https://github.com/labdocx/beta-scripts/blob/main/Script_AD%20OU%20Design.png))
